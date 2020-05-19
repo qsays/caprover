@@ -45,7 +45,7 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "fs-extra": "^8.1.0",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "is-valid-path": "^0.1.1",
     "js-base64": "^2.5.1",
     "jsonwebtoken": "^8.5.1",
