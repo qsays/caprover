@@ -65,7 +65,7 @@
     "tslint": "^5.20.1",
     "typescript": "^3.7.3",
     "uuid": "^3.3.3",
-    "validator": "^12.1.0"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "jest": "^24.9.0",
