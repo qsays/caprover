@@ -55,7 +55,7 @@
     "on-finished": "^2.3.0",
     "prettier": "^1.19.1",
     "public-ip": "^4.0.0",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "request": "^2.88.0",
     "require-from-string": "^2.0.2",
     "serve-favicon": "~2.5.0",
