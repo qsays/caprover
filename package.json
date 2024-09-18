@@ -43,7 +43,7 @@
     "debug": "~4.1.1",
     "dockerode": "^2.5.8",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "fs-extra": "^8.1.0",
     "http-proxy": "^1.18.0",
     "is-valid-path": "^0.1.1",
